@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 942124bc917e6db44a7287fbdb3dd13e, type: 3}
+  m_Name: Player Settings
+  m_EditorClassIdentifier: 
+  <Settings>k__BackingField:
+    GravityScale: 5
+    Speed: 45
+    JumpHeight: 2
+    PlayerMass: 100
+    DefaultDrag: 8
+    MouseSensitivity: 2
+    MP5K: {fileID: 11400000, guid: 26a077ebf339fc6419c3273a2f237399, type: 2}
